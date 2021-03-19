@@ -53,13 +53,7 @@ int main() {
 	imprimir_vetor(numeros);
 	
 	printf("Vetor copia original\n");
-	imprimir_vetor(copia_numeros);
-	
-//	for(i = 0; i<TAM; i++){
-//		
-//		printf("%3d", copia_numeros[i]);
-//	}
-//	
+	imprimir_vetor(copia_numeros);	
 	
 	return 0;
 }
